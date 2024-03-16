@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .options {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    margin-right: 10px;
+  }
+  
+  #order-id {
+    color: red;
+    text-align: right;
+  }
+  
+  #order-images {
+    margin-top: 20px;
+  }
+  
+  .item-image {
+    width: 200px; /* Increased image width */
+    margin-right: 20px; /* Increased gap between images */
+    margin-bottom: 20px; /* Increased gap between images */
+  }
+  
